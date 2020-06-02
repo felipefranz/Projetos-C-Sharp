@@ -1,0 +1,14 @@
+c:\users\rander carlos\source\repos\MinhaCalculadoraDeSignos\MinhaCalculadoraDeSignos\bin\Debug\MinhaCalculadoraDeSignos.exe.config
+c:\users\rander carlos\source\repos\MinhaCalculadoraDeSignos\MinhaCalculadoraDeSignos\bin\Debug\MinhaCalculadoraDeSignos.exe
+c:\users\rander carlos\source\repos\MinhaCalculadoraDeSignos\MinhaCalculadoraDeSignos\bin\Debug\MinhaCalculadoraDeSignos.pdb
+c:\users\rander carlos\source\repos\MinhaCalculadoraDeSignos\MinhaCalculadoraDeSignos\obj\Debug\MinhaCalculadoraDeSignos.csproj.CoreCompileInputs.cache
+c:\users\rander carlos\source\repos\MinhaCalculadoraDeSignos\MinhaCalculadoraDeSignos\obj\Debug\MinhaCalculadoraDeSignos.exe
+c:\users\rander carlos\source\repos\MinhaCalculadoraDeSignos\MinhaCalculadoraDeSignos\obj\Debug\MinhaCalculadoraDeSignos.pdb
+c:\users\rander carlos\source\repos\MinhaCalculadoraDeSignos\MinhaCalculadoraDeSignos\obj\Debug\MinhaCalculadoraDeSignos.csprojResolveAssemblyReference.cache
+C:\Desenvolvimento_Sistemas\Projetos C#\MinhaCalculadoraDeSignos\MinhaCalculadoraDeSignos\bin\Debug\MinhaCalculadoraDeSignos.exe.config
+C:\Desenvolvimento_Sistemas\Projetos C#\MinhaCalculadoraDeSignos\MinhaCalculadoraDeSignos\bin\Debug\MinhaCalculadoraDeSignos.exe
+C:\Desenvolvimento_Sistemas\Projetos C#\MinhaCalculadoraDeSignos\MinhaCalculadoraDeSignos\bin\Debug\MinhaCalculadoraDeSignos.pdb
+C:\Desenvolvimento_Sistemas\Projetos C#\MinhaCalculadoraDeSignos\MinhaCalculadoraDeSignos\obj\Debug\MinhaCalculadoraDeSignos.csprojAssemblyReference.cache
+C:\Desenvolvimento_Sistemas\Projetos C#\MinhaCalculadoraDeSignos\MinhaCalculadoraDeSignos\obj\Debug\MinhaCalculadoraDeSignos.csproj.CoreCompileInputs.cache
+C:\Desenvolvimento_Sistemas\Projetos C#\MinhaCalculadoraDeSignos\MinhaCalculadoraDeSignos\obj\Debug\MinhaCalculadoraDeSignos.exe
+C:\Desenvolvimento_Sistemas\Projetos C#\MinhaCalculadoraDeSignos\MinhaCalculadoraDeSignos\obj\Debug\MinhaCalculadoraDeSignos.pdb

@@ -1,0 +1,11 @@
+C:\Users\felip\source\repos\Conjuntos\Conjuntos\bin\Debug\netcoreapp2.1\Conjuntos.deps.json
+C:\Users\felip\source\repos\Conjuntos\Conjuntos\bin\Debug\netcoreapp2.1\Conjuntos.runtimeconfig.json
+C:\Users\felip\source\repos\Conjuntos\Conjuntos\bin\Debug\netcoreapp2.1\Conjuntos.runtimeconfig.dev.json
+C:\Users\felip\source\repos\Conjuntos\Conjuntos\bin\Debug\netcoreapp2.1\Conjuntos.dll
+C:\Users\felip\source\repos\Conjuntos\Conjuntos\bin\Debug\netcoreapp2.1\Conjuntos.pdb
+C:\Users\felip\source\repos\Conjuntos\Conjuntos\obj\Debug\netcoreapp2.1\Conjuntos.csprojAssemblyReference.cache
+C:\Users\felip\source\repos\Conjuntos\Conjuntos\obj\Debug\netcoreapp2.1\Conjuntos.csproj.CoreCompileInputs.cache
+C:\Users\felip\source\repos\Conjuntos\Conjuntos\obj\Debug\netcoreapp2.1\Conjuntos.AssemblyInfoInputs.cache
+C:\Users\felip\source\repos\Conjuntos\Conjuntos\obj\Debug\netcoreapp2.1\Conjuntos.AssemblyInfo.cs
+C:\Users\felip\source\repos\Conjuntos\Conjuntos\obj\Debug\netcoreapp2.1\Conjuntos.dll
+C:\Users\felip\source\repos\Conjuntos\Conjuntos\obj\Debug\netcoreapp2.1\Conjuntos.pdb
