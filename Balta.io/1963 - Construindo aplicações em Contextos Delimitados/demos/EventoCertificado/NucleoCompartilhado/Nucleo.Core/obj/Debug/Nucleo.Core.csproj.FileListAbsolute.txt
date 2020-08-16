@@ -2,3 +2,9 @@ c:\Users\yanjustino\Documents\Visual Studio 2015\Projects\EventoCertificado\Nucl
 c:\Users\yanjustino\Documents\Visual Studio 2015\Projects\EventoCertificado\NucleoCompartilhado\Nucleo.Core\bin\Debug\Nucleo.Core.pdb
 c:\Users\yanjustino\Documents\Visual Studio 2015\Projects\EventoCertificado\NucleoCompartilhado\Nucleo.Core\obj\Debug\Nucleo.Core.dll
 c:\Users\yanjustino\Documents\Visual Studio 2015\Projects\EventoCertificado\NucleoCompartilhado\Nucleo.Core\obj\Debug\Nucleo.Core.pdb
+C:\Desenvolvimento_Sistemas\Projetos C#\Balta.io\1963 - Construindo aplicações em Contextos Delimitados\demos\EventoCertificado\NucleoCompartilhado\Nucleo.Core\bin\Debug\Nucleo.Core.dll
+C:\Desenvolvimento_Sistemas\Projetos C#\Balta.io\1963 - Construindo aplicações em Contextos Delimitados\demos\EventoCertificado\NucleoCompartilhado\Nucleo.Core\bin\Debug\Nucleo.Core.pdb
+C:\Desenvolvimento_Sistemas\Projetos C#\Balta.io\1963 - Construindo aplicações em Contextos Delimitados\demos\EventoCertificado\NucleoCompartilhado\Nucleo.Core\obj\Debug\Nucleo.Core.csprojAssemblyReference.cache
+C:\Desenvolvimento_Sistemas\Projetos C#\Balta.io\1963 - Construindo aplicações em Contextos Delimitados\demos\EventoCertificado\NucleoCompartilhado\Nucleo.Core\obj\Debug\Nucleo.Core.csproj.CoreCompileInputs.cache
+C:\Desenvolvimento_Sistemas\Projetos C#\Balta.io\1963 - Construindo aplicações em Contextos Delimitados\demos\EventoCertificado\NucleoCompartilhado\Nucleo.Core\obj\Debug\Nucleo.Core.dll
+C:\Desenvolvimento_Sistemas\Projetos C#\Balta.io\1963 - Construindo aplicações em Contextos Delimitados\demos\EventoCertificado\NucleoCompartilhado\Nucleo.Core\obj\Debug\Nucleo.Core.pdb
