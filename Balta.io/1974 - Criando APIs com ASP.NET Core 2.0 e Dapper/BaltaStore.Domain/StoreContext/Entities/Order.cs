@@ -40,7 +40,7 @@ namespace BaltaStore.Domain.StoreContext.Entities
         // Criar um pedido
         public void Place()
         {
-            // Gera o n�mero do pedido
+            // Gera o número do pedido
             Number = Guid.NewGuid().ToString().Replace("-", "").Substring(0, 8).ToUpper();
             if (_items.Count == 0)
                 AddNotification("Order", "Este pedido não possui itens");
@@ -55,12 +55,13 @@ namespace BaltaStore.Domain.StoreContext.Entities
         // Enviar um pedido
         public void Ship()
         {
-            // A cada 5 produtos � uma entrega
+            // A cada 5 produtos é uma entrega
             var deliveries = new List<Delivery>();
             // deliveries.Add(new Delivery(DateTime.Now.AddDays(5)));
             var count = 1;
 
             // Quebra as entregas
+            // Conta a quantidade de Items, cria novas entregar a cada 5 novos itens
             foreach (var item in _items)
             {
                 if (count == 5)
@@ -72,9 +73,11 @@ namespace BaltaStore.Domain.StoreContext.Entities
             }
 
             // Envia todos as entregas
+            // Percorre toda a lista de entregas e chama a função Ship() para cada uma delas
             deliveries.ForEach(x => x.Ship());
 
             // Adiciona as entregas ao pedido
+            // Percorre toda a lista de entregas e adiciona todas as entregas ao pedido
             deliveries.ForEach(x => _deliveries.Add(x));
         }
 
