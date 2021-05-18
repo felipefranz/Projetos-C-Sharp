@@ -1,0 +1,13 @@
+C:\projetos\ClasseAbstrata\ClasseAbstrata\bin\Debug\netcoreapp3.1\ClasseAbstrata.exe
+C:\projetos\ClasseAbstrata\ClasseAbstrata\bin\Debug\netcoreapp3.1\ClasseAbstrata.deps.json
+C:\projetos\ClasseAbstrata\ClasseAbstrata\bin\Debug\netcoreapp3.1\ClasseAbstrata.runtimeconfig.json
+C:\projetos\ClasseAbstrata\ClasseAbstrata\bin\Debug\netcoreapp3.1\ClasseAbstrata.runtimeconfig.dev.json
+C:\projetos\ClasseAbstrata\ClasseAbstrata\bin\Debug\netcoreapp3.1\ClasseAbstrata.dll
+C:\projetos\ClasseAbstrata\ClasseAbstrata\bin\Debug\netcoreapp3.1\ClasseAbstrata.pdb
+C:\projetos\ClasseAbstrata\ClasseAbstrata\obj\Debug\netcoreapp3.1\ClasseAbstrata.csprojAssemblyReference.cache
+C:\projetos\ClasseAbstrata\ClasseAbstrata\obj\Debug\netcoreapp3.1\ClasseAbstrata.AssemblyInfoInputs.cache
+C:\projetos\ClasseAbstrata\ClasseAbstrata\obj\Debug\netcoreapp3.1\ClasseAbstrata.AssemblyInfo.cs
+C:\projetos\ClasseAbstrata\ClasseAbstrata\obj\Debug\netcoreapp3.1\ClasseAbstrata.csproj.CoreCompileInputs.cache
+C:\projetos\ClasseAbstrata\ClasseAbstrata\obj\Debug\netcoreapp3.1\ClasseAbstrata.dll
+C:\projetos\ClasseAbstrata\ClasseAbstrata\obj\Debug\netcoreapp3.1\ClasseAbstrata.pdb
+C:\projetos\ClasseAbstrata\ClasseAbstrata\obj\Debug\netcoreapp3.1\ClasseAbstrata.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\projetos\Polimorfismo1\Polimorfismo1\bin\Debug\netcoreapp3.1\Polimorfismo1.exe
+C:\projetos\Polimorfismo1\Polimorfismo1\bin\Debug\netcoreapp3.1\Polimorfismo1.deps.json
+C:\projetos\Polimorfismo1\Polimorfismo1\bin\Debug\netcoreapp3.1\Polimorfismo1.runtimeconfig.json
+C:\projetos\Polimorfismo1\Polimorfismo1\bin\Debug\netcoreapp3.1\Polimorfismo1.runtimeconfig.dev.json
+C:\projetos\Polimorfismo1\Polimorfismo1\bin\Debug\netcoreapp3.1\Polimorfismo1.dll
+C:\projetos\Polimorfismo1\Polimorfismo1\bin\Debug\netcoreapp3.1\Polimorfismo1.pdb
+C:\projetos\Polimorfismo1\Polimorfismo1\obj\Debug\netcoreapp3.1\Polimorfismo1.csprojAssemblyReference.cache
+C:\projetos\Polimorfismo1\Polimorfismo1\obj\Debug\netcoreapp3.1\Polimorfismo1.AssemblyInfoInputs.cache
+C:\projetos\Polimorfismo1\Polimorfismo1\obj\Debug\netcoreapp3.1\Polimorfismo1.AssemblyInfo.cs
+C:\projetos\Polimorfismo1\Polimorfismo1\obj\Debug\netcoreapp3.1\Polimorfismo1.csproj.CoreCompileInputs.cache
+C:\projetos\Polimorfismo1\Polimorfismo1\obj\Debug\netcoreapp3.1\Polimorfismo1.dll
+C:\projetos\Polimorfismo1\Polimorfismo1\obj\Debug\netcoreapp3.1\Polimorfismo1.pdb
+C:\projetos\Polimorfismo1\Polimorfismo1\obj\Debug\netcoreapp3.1\Polimorfismo1.genruntimeconfig.cache
