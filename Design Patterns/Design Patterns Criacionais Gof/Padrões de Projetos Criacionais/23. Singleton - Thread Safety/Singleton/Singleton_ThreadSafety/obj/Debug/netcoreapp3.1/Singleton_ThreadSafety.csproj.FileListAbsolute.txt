@@ -1,0 +1,13 @@
+C:\curso_dp\criacionais\singleton\Singleton\Singleton_ThreadSafety\bin\Debug\netcoreapp3.1\Singleton_ThreadSafety.exe
+C:\curso_dp\criacionais\singleton\Singleton\Singleton_ThreadSafety\bin\Debug\netcoreapp3.1\Singleton_ThreadSafety.deps.json
+C:\curso_dp\criacionais\singleton\Singleton\Singleton_ThreadSafety\bin\Debug\netcoreapp3.1\Singleton_ThreadSafety.runtimeconfig.json
+C:\curso_dp\criacionais\singleton\Singleton\Singleton_ThreadSafety\bin\Debug\netcoreapp3.1\Singleton_ThreadSafety.runtimeconfig.dev.json
+C:\curso_dp\criacionais\singleton\Singleton\Singleton_ThreadSafety\bin\Debug\netcoreapp3.1\Singleton_ThreadSafety.dll
+C:\curso_dp\criacionais\singleton\Singleton\Singleton_ThreadSafety\bin\Debug\netcoreapp3.1\Singleton_ThreadSafety.pdb
+C:\curso_dp\criacionais\singleton\Singleton\Singleton_ThreadSafety\obj\Debug\netcoreapp3.1\Singleton_ThreadSafety.csprojAssemblyReference.cache
+C:\curso_dp\criacionais\singleton\Singleton\Singleton_ThreadSafety\obj\Debug\netcoreapp3.1\Singleton_ThreadSafety.AssemblyInfoInputs.cache
+C:\curso_dp\criacionais\singleton\Singleton\Singleton_ThreadSafety\obj\Debug\netcoreapp3.1\Singleton_ThreadSafety.AssemblyInfo.cs
+C:\curso_dp\criacionais\singleton\Singleton\Singleton_ThreadSafety\obj\Debug\netcoreapp3.1\Singleton_ThreadSafety.csproj.CoreCompileInputs.cache
+C:\curso_dp\criacionais\singleton\Singleton\Singleton_ThreadSafety\obj\Debug\netcoreapp3.1\Singleton_ThreadSafety.dll
+C:\curso_dp\criacionais\singleton\Singleton\Singleton_ThreadSafety\obj\Debug\netcoreapp3.1\Singleton_ThreadSafety.pdb
+C:\curso_dp\criacionais\singleton\Singleton\Singleton_ThreadSafety\obj\Debug\netcoreapp3.1\Singleton_ThreadSafety.genruntimeconfig.cache

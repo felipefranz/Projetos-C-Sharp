@@ -1,0 +1,13 @@
+C:\curso_dp\criacionais\singleton\Singleton\Singleton_SemLock\bin\Debug\netcoreapp3.1\Singleton_SemLock.exe
+C:\curso_dp\criacionais\singleton\Singleton\Singleton_SemLock\bin\Debug\netcoreapp3.1\Singleton_SemLock.deps.json
+C:\curso_dp\criacionais\singleton\Singleton\Singleton_SemLock\bin\Debug\netcoreapp3.1\Singleton_SemLock.runtimeconfig.json
+C:\curso_dp\criacionais\singleton\Singleton\Singleton_SemLock\bin\Debug\netcoreapp3.1\Singleton_SemLock.runtimeconfig.dev.json
+C:\curso_dp\criacionais\singleton\Singleton\Singleton_SemLock\bin\Debug\netcoreapp3.1\Singleton_SemLock.dll
+C:\curso_dp\criacionais\singleton\Singleton\Singleton_SemLock\bin\Debug\netcoreapp3.1\Singleton_SemLock.pdb
+C:\curso_dp\criacionais\singleton\Singleton\Singleton_SemLock\obj\Debug\netcoreapp3.1\Singleton_SemLock.csprojAssemblyReference.cache
+C:\curso_dp\criacionais\singleton\Singleton\Singleton_SemLock\obj\Debug\netcoreapp3.1\Singleton_SemLock.AssemblyInfoInputs.cache
+C:\curso_dp\criacionais\singleton\Singleton\Singleton_SemLock\obj\Debug\netcoreapp3.1\Singleton_SemLock.AssemblyInfo.cs
+C:\curso_dp\criacionais\singleton\Singleton\Singleton_SemLock\obj\Debug\netcoreapp3.1\Singleton_SemLock.csproj.CoreCompileInputs.cache
+C:\curso_dp\criacionais\singleton\Singleton\Singleton_SemLock\obj\Debug\netcoreapp3.1\Singleton_SemLock.dll
+C:\curso_dp\criacionais\singleton\Singleton\Singleton_SemLock\obj\Debug\netcoreapp3.1\Singleton_SemLock.pdb
+C:\curso_dp\criacionais\singleton\Singleton\Singleton_SemLock\obj\Debug\netcoreapp3.1\Singleton_SemLock.genruntimeconfig.cache
