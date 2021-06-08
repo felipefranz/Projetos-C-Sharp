@@ -1,0 +1,13 @@
+C:\curso_dp\criacionais\prototype\Prototype\Exemplo2\bin\Debug\netcoreapp3.1\Exemplo2.exe
+C:\curso_dp\criacionais\prototype\Prototype\Exemplo2\bin\Debug\netcoreapp3.1\Exemplo2.deps.json
+C:\curso_dp\criacionais\prototype\Prototype\Exemplo2\bin\Debug\netcoreapp3.1\Exemplo2.runtimeconfig.json
+C:\curso_dp\criacionais\prototype\Prototype\Exemplo2\bin\Debug\netcoreapp3.1\Exemplo2.runtimeconfig.dev.json
+C:\curso_dp\criacionais\prototype\Prototype\Exemplo2\bin\Debug\netcoreapp3.1\Exemplo2.dll
+C:\curso_dp\criacionais\prototype\Prototype\Exemplo2\bin\Debug\netcoreapp3.1\Exemplo2.pdb
+C:\curso_dp\criacionais\prototype\Prototype\Exemplo2\obj\Debug\netcoreapp3.1\Exemplo2.csprojAssemblyReference.cache
+C:\curso_dp\criacionais\prototype\Prototype\Exemplo2\obj\Debug\netcoreapp3.1\Exemplo2.AssemblyInfoInputs.cache
+C:\curso_dp\criacionais\prototype\Prototype\Exemplo2\obj\Debug\netcoreapp3.1\Exemplo2.AssemblyInfo.cs
+C:\curso_dp\criacionais\prototype\Prototype\Exemplo2\obj\Debug\netcoreapp3.1\Exemplo2.csproj.CoreCompileInputs.cache
+C:\curso_dp\criacionais\prototype\Prototype\Exemplo2\obj\Debug\netcoreapp3.1\Exemplo2.dll
+C:\curso_dp\criacionais\prototype\Prototype\Exemplo2\obj\Debug\netcoreapp3.1\Exemplo2.pdb
+C:\curso_dp\criacionais\prototype\Prototype\Exemplo2\obj\Debug\netcoreapp3.1\Exemplo2.genruntimeconfig.cache

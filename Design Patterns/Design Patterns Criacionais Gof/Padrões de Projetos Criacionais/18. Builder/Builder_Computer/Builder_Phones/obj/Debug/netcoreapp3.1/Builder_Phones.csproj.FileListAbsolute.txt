@@ -1,0 +1,13 @@
+C:\curso_dp\criacionais\Builder_Computer\Builder_Phones\bin\Debug\netcoreapp3.1\Builder_Phones.exe
+C:\curso_dp\criacionais\Builder_Computer\Builder_Phones\bin\Debug\netcoreapp3.1\Builder_Phones.deps.json
+C:\curso_dp\criacionais\Builder_Computer\Builder_Phones\bin\Debug\netcoreapp3.1\Builder_Phones.runtimeconfig.json
+C:\curso_dp\criacionais\Builder_Computer\Builder_Phones\bin\Debug\netcoreapp3.1\Builder_Phones.runtimeconfig.dev.json
+C:\curso_dp\criacionais\Builder_Computer\Builder_Phones\bin\Debug\netcoreapp3.1\Builder_Phones.dll
+C:\curso_dp\criacionais\Builder_Computer\Builder_Phones\bin\Debug\netcoreapp3.1\Builder_Phones.pdb
+C:\curso_dp\criacionais\Builder_Computer\Builder_Phones\obj\Debug\netcoreapp3.1\Builder_Phones.csprojAssemblyReference.cache
+C:\curso_dp\criacionais\Builder_Computer\Builder_Phones\obj\Debug\netcoreapp3.1\Builder_Phones.AssemblyInfoInputs.cache
+C:\curso_dp\criacionais\Builder_Computer\Builder_Phones\obj\Debug\netcoreapp3.1\Builder_Phones.AssemblyInfo.cs
+C:\curso_dp\criacionais\Builder_Computer\Builder_Phones\obj\Debug\netcoreapp3.1\Builder_Phones.csproj.CoreCompileInputs.cache
+C:\curso_dp\criacionais\Builder_Computer\Builder_Phones\obj\Debug\netcoreapp3.1\Builder_Phones.dll
+C:\curso_dp\criacionais\Builder_Computer\Builder_Phones\obj\Debug\netcoreapp3.1\Builder_Phones.pdb
+C:\curso_dp\criacionais\Builder_Computer\Builder_Phones\obj\Debug\netcoreapp3.1\Builder_Phones.genruntimeconfig.cache

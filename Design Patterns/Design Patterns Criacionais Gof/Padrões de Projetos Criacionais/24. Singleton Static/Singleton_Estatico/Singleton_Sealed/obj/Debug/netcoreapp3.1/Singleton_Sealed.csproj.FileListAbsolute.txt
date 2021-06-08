@@ -1,0 +1,13 @@
+C:\curso_dp\criacionais\singleton\Singleton_Estatico\Singleton_Sealed\bin\Debug\netcoreapp3.1\Singleton_Sealed.exe
+C:\curso_dp\criacionais\singleton\Singleton_Estatico\Singleton_Sealed\bin\Debug\netcoreapp3.1\Singleton_Sealed.deps.json
+C:\curso_dp\criacionais\singleton\Singleton_Estatico\Singleton_Sealed\bin\Debug\netcoreapp3.1\Singleton_Sealed.runtimeconfig.json
+C:\curso_dp\criacionais\singleton\Singleton_Estatico\Singleton_Sealed\bin\Debug\netcoreapp3.1\Singleton_Sealed.runtimeconfig.dev.json
+C:\curso_dp\criacionais\singleton\Singleton_Estatico\Singleton_Sealed\bin\Debug\netcoreapp3.1\Singleton_Sealed.dll
+C:\curso_dp\criacionais\singleton\Singleton_Estatico\Singleton_Sealed\bin\Debug\netcoreapp3.1\Singleton_Sealed.pdb
+C:\curso_dp\criacionais\singleton\Singleton_Estatico\Singleton_Sealed\obj\Debug\netcoreapp3.1\Singleton_Sealed.AssemblyInfoInputs.cache
+C:\curso_dp\criacionais\singleton\Singleton_Estatico\Singleton_Sealed\obj\Debug\netcoreapp3.1\Singleton_Sealed.AssemblyInfo.cs
+C:\curso_dp\criacionais\singleton\Singleton_Estatico\Singleton_Sealed\obj\Debug\netcoreapp3.1\Singleton_Sealed.csproj.CoreCompileInputs.cache
+C:\curso_dp\criacionais\singleton\Singleton_Estatico\Singleton_Sealed\obj\Debug\netcoreapp3.1\Singleton_Sealed.dll
+C:\curso_dp\criacionais\singleton\Singleton_Estatico\Singleton_Sealed\obj\Debug\netcoreapp3.1\Singleton_Sealed.pdb
+C:\curso_dp\criacionais\singleton\Singleton_Estatico\Singleton_Sealed\obj\Debug\netcoreapp3.1\Singleton_Sealed.genruntimeconfig.cache
+C:\curso_dp\criacionais\singleton\Singleton_Estatico\Singleton_Sealed\obj\Debug\netcoreapp3.1\Singleton_Sealed.csprojAssemblyReference.cache

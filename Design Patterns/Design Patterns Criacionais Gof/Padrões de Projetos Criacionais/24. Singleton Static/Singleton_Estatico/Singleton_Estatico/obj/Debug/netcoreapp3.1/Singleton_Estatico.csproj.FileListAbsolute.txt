@@ -1,0 +1,13 @@
+C:\curso_dp\criacionais\singleton\Singleton_Estatico\Singleton_Estatico\bin\Debug\netcoreapp3.1\Singleton_Estatico.exe
+C:\curso_dp\criacionais\singleton\Singleton_Estatico\Singleton_Estatico\bin\Debug\netcoreapp3.1\Singleton_Estatico.deps.json
+C:\curso_dp\criacionais\singleton\Singleton_Estatico\Singleton_Estatico\bin\Debug\netcoreapp3.1\Singleton_Estatico.runtimeconfig.json
+C:\curso_dp\criacionais\singleton\Singleton_Estatico\Singleton_Estatico\bin\Debug\netcoreapp3.1\Singleton_Estatico.runtimeconfig.dev.json
+C:\curso_dp\criacionais\singleton\Singleton_Estatico\Singleton_Estatico\bin\Debug\netcoreapp3.1\Singleton_Estatico.dll
+C:\curso_dp\criacionais\singleton\Singleton_Estatico\Singleton_Estatico\bin\Debug\netcoreapp3.1\Singleton_Estatico.pdb
+C:\curso_dp\criacionais\singleton\Singleton_Estatico\Singleton_Estatico\obj\Debug\netcoreapp3.1\Singleton_Estatico.csprojAssemblyReference.cache
+C:\curso_dp\criacionais\singleton\Singleton_Estatico\Singleton_Estatico\obj\Debug\netcoreapp3.1\Singleton_Estatico.AssemblyInfoInputs.cache
+C:\curso_dp\criacionais\singleton\Singleton_Estatico\Singleton_Estatico\obj\Debug\netcoreapp3.1\Singleton_Estatico.AssemblyInfo.cs
+C:\curso_dp\criacionais\singleton\Singleton_Estatico\Singleton_Estatico\obj\Debug\netcoreapp3.1\Singleton_Estatico.csproj.CoreCompileInputs.cache
+C:\curso_dp\criacionais\singleton\Singleton_Estatico\Singleton_Estatico\obj\Debug\netcoreapp3.1\Singleton_Estatico.dll
+C:\curso_dp\criacionais\singleton\Singleton_Estatico\Singleton_Estatico\obj\Debug\netcoreapp3.1\Singleton_Estatico.pdb
+C:\curso_dp\criacionais\singleton\Singleton_Estatico\Singleton_Estatico\obj\Debug\netcoreapp3.1\Singleton_Estatico.genruntimeconfig.cache

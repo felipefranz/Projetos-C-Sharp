@@ -1,0 +1,13 @@
+C:\curso_dp\criacionais\abfac\AbstractFactory1\AbstractFactory1\bin\Debug\netcoreapp3.1\AbstractFactory1.exe
+C:\curso_dp\criacionais\abfac\AbstractFactory1\AbstractFactory1\bin\Debug\netcoreapp3.1\AbstractFactory1.deps.json
+C:\curso_dp\criacionais\abfac\AbstractFactory1\AbstractFactory1\bin\Debug\netcoreapp3.1\AbstractFactory1.runtimeconfig.json
+C:\curso_dp\criacionais\abfac\AbstractFactory1\AbstractFactory1\bin\Debug\netcoreapp3.1\AbstractFactory1.runtimeconfig.dev.json
+C:\curso_dp\criacionais\abfac\AbstractFactory1\AbstractFactory1\bin\Debug\netcoreapp3.1\AbstractFactory1.dll
+C:\curso_dp\criacionais\abfac\AbstractFactory1\AbstractFactory1\bin\Debug\netcoreapp3.1\AbstractFactory1.pdb
+C:\curso_dp\criacionais\abfac\AbstractFactory1\AbstractFactory1\obj\Debug\netcoreapp3.1\AbstractFactory1.csprojAssemblyReference.cache
+C:\curso_dp\criacionais\abfac\AbstractFactory1\AbstractFactory1\obj\Debug\netcoreapp3.1\AbstractFactory1.AssemblyInfoInputs.cache
+C:\curso_dp\criacionais\abfac\AbstractFactory1\AbstractFactory1\obj\Debug\netcoreapp3.1\AbstractFactory1.AssemblyInfo.cs
+C:\curso_dp\criacionais\abfac\AbstractFactory1\AbstractFactory1\obj\Debug\netcoreapp3.1\AbstractFactory1.csproj.CoreCompileInputs.cache
+C:\curso_dp\criacionais\abfac\AbstractFactory1\AbstractFactory1\obj\Debug\netcoreapp3.1\AbstractFactory1.dll
+C:\curso_dp\criacionais\abfac\AbstractFactory1\AbstractFactory1\obj\Debug\netcoreapp3.1\AbstractFactory1.pdb
+C:\curso_dp\criacionais\abfac\AbstractFactory1\AbstractFactory1\obj\Debug\netcoreapp3.1\AbstractFactory1.genruntimeconfig.cache

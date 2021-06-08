@@ -1,0 +1,13 @@
+C:\curso_dp\criacionais\singleton\Singleton\Single_MultiThread\bin\Debug\netcoreapp3.1\Single_MultiThread.exe
+C:\curso_dp\criacionais\singleton\Singleton\Single_MultiThread\bin\Debug\netcoreapp3.1\Single_MultiThread.deps.json
+C:\curso_dp\criacionais\singleton\Singleton\Single_MultiThread\bin\Debug\netcoreapp3.1\Single_MultiThread.runtimeconfig.json
+C:\curso_dp\criacionais\singleton\Singleton\Single_MultiThread\bin\Debug\netcoreapp3.1\Single_MultiThread.runtimeconfig.dev.json
+C:\curso_dp\criacionais\singleton\Singleton\Single_MultiThread\bin\Debug\netcoreapp3.1\Single_MultiThread.dll
+C:\curso_dp\criacionais\singleton\Singleton\Single_MultiThread\bin\Debug\netcoreapp3.1\Single_MultiThread.pdb
+C:\curso_dp\criacionais\singleton\Singleton\Single_MultiThread\obj\Debug\netcoreapp3.1\Single_MultiThread.csprojAssemblyReference.cache
+C:\curso_dp\criacionais\singleton\Singleton\Single_MultiThread\obj\Debug\netcoreapp3.1\Single_MultiThread.AssemblyInfoInputs.cache
+C:\curso_dp\criacionais\singleton\Singleton\Single_MultiThread\obj\Debug\netcoreapp3.1\Single_MultiThread.AssemblyInfo.cs
+C:\curso_dp\criacionais\singleton\Singleton\Single_MultiThread\obj\Debug\netcoreapp3.1\Single_MultiThread.csproj.CoreCompileInputs.cache
+C:\curso_dp\criacionais\singleton\Singleton\Single_MultiThread\obj\Debug\netcoreapp3.1\Single_MultiThread.dll
+C:\curso_dp\criacionais\singleton\Singleton\Single_MultiThread\obj\Debug\netcoreapp3.1\Single_MultiThread.pdb
+C:\curso_dp\criacionais\singleton\Singleton\Single_MultiThread\obj\Debug\netcoreapp3.1\Single_MultiThread.genruntimeconfig.cache

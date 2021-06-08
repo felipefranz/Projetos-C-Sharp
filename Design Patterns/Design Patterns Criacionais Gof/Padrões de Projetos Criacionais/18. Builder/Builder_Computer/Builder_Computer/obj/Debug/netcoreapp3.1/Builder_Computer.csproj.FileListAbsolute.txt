@@ -1,0 +1,13 @@
+C:\curso_dp\criacionais\Builder_Computer\Builder_Computer\bin\Debug\netcoreapp3.1\Builder_Computer.exe
+C:\curso_dp\criacionais\Builder_Computer\Builder_Computer\bin\Debug\netcoreapp3.1\Builder_Computer.deps.json
+C:\curso_dp\criacionais\Builder_Computer\Builder_Computer\bin\Debug\netcoreapp3.1\Builder_Computer.runtimeconfig.json
+C:\curso_dp\criacionais\Builder_Computer\Builder_Computer\bin\Debug\netcoreapp3.1\Builder_Computer.runtimeconfig.dev.json
+C:\curso_dp\criacionais\Builder_Computer\Builder_Computer\bin\Debug\netcoreapp3.1\Builder_Computer.dll
+C:\curso_dp\criacionais\Builder_Computer\Builder_Computer\bin\Debug\netcoreapp3.1\Builder_Computer.pdb
+C:\curso_dp\criacionais\Builder_Computer\Builder_Computer\obj\Debug\netcoreapp3.1\Builder_Computer.csprojAssemblyReference.cache
+C:\curso_dp\criacionais\Builder_Computer\Builder_Computer\obj\Debug\netcoreapp3.1\Builder_Computer.AssemblyInfoInputs.cache
+C:\curso_dp\criacionais\Builder_Computer\Builder_Computer\obj\Debug\netcoreapp3.1\Builder_Computer.AssemblyInfo.cs
+C:\curso_dp\criacionais\Builder_Computer\Builder_Computer\obj\Debug\netcoreapp3.1\Builder_Computer.csproj.CoreCompileInputs.cache
+C:\curso_dp\criacionais\Builder_Computer\Builder_Computer\obj\Debug\netcoreapp3.1\Builder_Computer.dll
+C:\curso_dp\criacionais\Builder_Computer\Builder_Computer\obj\Debug\netcoreapp3.1\Builder_Computer.pdb
+C:\curso_dp\criacionais\Builder_Computer\Builder_Computer\obj\Debug\netcoreapp3.1\Builder_Computer.genruntimeconfig.cache
