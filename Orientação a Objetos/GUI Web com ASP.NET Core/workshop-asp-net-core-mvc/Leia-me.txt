@@ -1,0 +1,1 @@
+Para o projeto rodar o serviço do MySQL precisa estar habilitado/executando no windows

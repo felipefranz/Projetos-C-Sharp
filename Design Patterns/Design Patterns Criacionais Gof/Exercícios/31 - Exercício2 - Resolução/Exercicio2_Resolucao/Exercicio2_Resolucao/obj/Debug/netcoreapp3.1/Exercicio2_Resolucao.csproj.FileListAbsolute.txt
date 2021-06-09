@@ -1,0 +1,13 @@
+C:\curso_dp\Exercicio2_Resolucao\Exercicio2_Resolucao\bin\Debug\netcoreapp3.1\Exercicio2_Resolucao.exe
+C:\curso_dp\Exercicio2_Resolucao\Exercicio2_Resolucao\bin\Debug\netcoreapp3.1\Exercicio2_Resolucao.deps.json
+C:\curso_dp\Exercicio2_Resolucao\Exercicio2_Resolucao\bin\Debug\netcoreapp3.1\Exercicio2_Resolucao.runtimeconfig.json
+C:\curso_dp\Exercicio2_Resolucao\Exercicio2_Resolucao\bin\Debug\netcoreapp3.1\Exercicio2_Resolucao.runtimeconfig.dev.json
+C:\curso_dp\Exercicio2_Resolucao\Exercicio2_Resolucao\bin\Debug\netcoreapp3.1\Exercicio2_Resolucao.dll
+C:\curso_dp\Exercicio2_Resolucao\Exercicio2_Resolucao\bin\Debug\netcoreapp3.1\Exercicio2_Resolucao.pdb
+C:\curso_dp\Exercicio2_Resolucao\Exercicio2_Resolucao\obj\Debug\netcoreapp3.1\Exercicio2_Resolucao.csprojAssemblyReference.cache
+C:\curso_dp\Exercicio2_Resolucao\Exercicio2_Resolucao\obj\Debug\netcoreapp3.1\Exercicio2_Resolucao.AssemblyInfoInputs.cache
+C:\curso_dp\Exercicio2_Resolucao\Exercicio2_Resolucao\obj\Debug\netcoreapp3.1\Exercicio2_Resolucao.AssemblyInfo.cs
+C:\curso_dp\Exercicio2_Resolucao\Exercicio2_Resolucao\obj\Debug\netcoreapp3.1\Exercicio2_Resolucao.csproj.CoreCompileInputs.cache
+C:\curso_dp\Exercicio2_Resolucao\Exercicio2_Resolucao\obj\Debug\netcoreapp3.1\Exercicio2_Resolucao.dll
+C:\curso_dp\Exercicio2_Resolucao\Exercicio2_Resolucao\obj\Debug\netcoreapp3.1\Exercicio2_Resolucao.pdb
+C:\curso_dp\Exercicio2_Resolucao\Exercicio2_Resolucao\obj\Debug\netcoreapp3.1\Exercicio2_Resolucao.genruntimeconfig.cache

@@ -11,3 +11,14 @@ C:\curso_dp\criacionais\abfac\AbstractFactory1\AbstractFactory1\obj\Debug\netcor
 C:\curso_dp\criacionais\abfac\AbstractFactory1\AbstractFactory1\obj\Debug\netcoreapp3.1\AbstractFactory1.dll
 C:\curso_dp\criacionais\abfac\AbstractFactory1\AbstractFactory1\obj\Debug\netcoreapp3.1\AbstractFactory1.pdb
 C:\curso_dp\criacionais\abfac\AbstractFactory1\AbstractFactory1\obj\Debug\netcoreapp3.1\AbstractFactory1.genruntimeconfig.cache
+C:\Desenvolvimento_Sistemas\Projetos C#\Design Patterns\Design Patterns Criacionais Gof\Padrões de Projetos Criacionais\17. Abstract Factory\AbstractFactory1\AbstractFactory1\bin\Debug\netcoreapp3.1\AbstractFactory1.exe
+C:\Desenvolvimento_Sistemas\Projetos C#\Design Patterns\Design Patterns Criacionais Gof\Padrões de Projetos Criacionais\17. Abstract Factory\AbstractFactory1\AbstractFactory1\bin\Debug\netcoreapp3.1\AbstractFactory1.deps.json
+C:\Desenvolvimento_Sistemas\Projetos C#\Design Patterns\Design Patterns Criacionais Gof\Padrões de Projetos Criacionais\17. Abstract Factory\AbstractFactory1\AbstractFactory1\bin\Debug\netcoreapp3.1\AbstractFactory1.runtimeconfig.json
+C:\Desenvolvimento_Sistemas\Projetos C#\Design Patterns\Design Patterns Criacionais Gof\Padrões de Projetos Criacionais\17. Abstract Factory\AbstractFactory1\AbstractFactory1\bin\Debug\netcoreapp3.1\AbstractFactory1.runtimeconfig.dev.json
+C:\Desenvolvimento_Sistemas\Projetos C#\Design Patterns\Design Patterns Criacionais Gof\Padrões de Projetos Criacionais\17. Abstract Factory\AbstractFactory1\AbstractFactory1\bin\Debug\netcoreapp3.1\AbstractFactory1.dll
+C:\Desenvolvimento_Sistemas\Projetos C#\Design Patterns\Design Patterns Criacionais Gof\Padrões de Projetos Criacionais\17. Abstract Factory\AbstractFactory1\AbstractFactory1\bin\Debug\netcoreapp3.1\AbstractFactory1.pdb
+C:\Desenvolvimento_Sistemas\Projetos C#\Design Patterns\Design Patterns Criacionais Gof\Padrões de Projetos Criacionais\17. Abstract Factory\AbstractFactory1\AbstractFactory1\obj\Debug\netcoreapp3.1\AbstractFactory1.csprojAssemblyReference.cache
+C:\Desenvolvimento_Sistemas\Projetos C#\Design Patterns\Design Patterns Criacionais Gof\Padrões de Projetos Criacionais\17. Abstract Factory\AbstractFactory1\AbstractFactory1\obj\Debug\netcoreapp3.1\AbstractFactory1.AssemblyInfoInputs.cache
+C:\Desenvolvimento_Sistemas\Projetos C#\Design Patterns\Design Patterns Criacionais Gof\Padrões de Projetos Criacionais\17. Abstract Factory\AbstractFactory1\AbstractFactory1\obj\Debug\netcoreapp3.1\AbstractFactory1.AssemblyInfo.cs
+C:\Desenvolvimento_Sistemas\Projetos C#\Design Patterns\Design Patterns Criacionais Gof\Padrões de Projetos Criacionais\17. Abstract Factory\AbstractFactory1\AbstractFactory1\obj\Debug\netcoreapp3.1\AbstractFactory1.dll
+C:\Desenvolvimento_Sistemas\Projetos C#\Design Patterns\Design Patterns Criacionais Gof\Padrões de Projetos Criacionais\17. Abstract Factory\AbstractFactory1\AbstractFactory1\obj\Debug\netcoreapp3.1\AbstractFactory1.pdb

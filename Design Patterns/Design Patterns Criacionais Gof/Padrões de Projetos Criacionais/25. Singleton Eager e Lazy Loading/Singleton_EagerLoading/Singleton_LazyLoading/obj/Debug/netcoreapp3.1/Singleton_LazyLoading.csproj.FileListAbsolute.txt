@@ -1,0 +1,13 @@
+C:\curso_dp\criacionais\singleton\Singleton_EagerLoading\Singleton_LazyLoading\bin\Debug\netcoreapp3.1\Singleton_LazyLoading.exe
+C:\curso_dp\criacionais\singleton\Singleton_EagerLoading\Singleton_LazyLoading\bin\Debug\netcoreapp3.1\Singleton_LazyLoading.deps.json
+C:\curso_dp\criacionais\singleton\Singleton_EagerLoading\Singleton_LazyLoading\bin\Debug\netcoreapp3.1\Singleton_LazyLoading.runtimeconfig.json
+C:\curso_dp\criacionais\singleton\Singleton_EagerLoading\Singleton_LazyLoading\bin\Debug\netcoreapp3.1\Singleton_LazyLoading.runtimeconfig.dev.json
+C:\curso_dp\criacionais\singleton\Singleton_EagerLoading\Singleton_LazyLoading\bin\Debug\netcoreapp3.1\Singleton_LazyLoading.dll
+C:\curso_dp\criacionais\singleton\Singleton_EagerLoading\Singleton_LazyLoading\bin\Debug\netcoreapp3.1\Singleton_LazyLoading.pdb
+C:\curso_dp\criacionais\singleton\Singleton_EagerLoading\Singleton_LazyLoading\obj\Debug\netcoreapp3.1\Singleton_LazyLoading.csprojAssemblyReference.cache
+C:\curso_dp\criacionais\singleton\Singleton_EagerLoading\Singleton_LazyLoading\obj\Debug\netcoreapp3.1\Singleton_LazyLoading.AssemblyInfoInputs.cache
+C:\curso_dp\criacionais\singleton\Singleton_EagerLoading\Singleton_LazyLoading\obj\Debug\netcoreapp3.1\Singleton_LazyLoading.AssemblyInfo.cs
+C:\curso_dp\criacionais\singleton\Singleton_EagerLoading\Singleton_LazyLoading\obj\Debug\netcoreapp3.1\Singleton_LazyLoading.csproj.CoreCompileInputs.cache
+C:\curso_dp\criacionais\singleton\Singleton_EagerLoading\Singleton_LazyLoading\obj\Debug\netcoreapp3.1\Singleton_LazyLoading.dll
+C:\curso_dp\criacionais\singleton\Singleton_EagerLoading\Singleton_LazyLoading\obj\Debug\netcoreapp3.1\Singleton_LazyLoading.pdb
+C:\curso_dp\criacionais\singleton\Singleton_EagerLoading\Singleton_LazyLoading\obj\Debug\netcoreapp3.1\Singleton_LazyLoading.genruntimeconfig.cache

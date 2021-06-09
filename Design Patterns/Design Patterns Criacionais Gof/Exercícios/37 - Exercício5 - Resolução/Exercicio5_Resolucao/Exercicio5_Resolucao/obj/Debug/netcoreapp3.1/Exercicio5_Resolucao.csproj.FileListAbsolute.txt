@@ -1,0 +1,13 @@
+C:\curso_dp\Exercicio5_Resolucao\Exercicio5_Resolucao\bin\Debug\netcoreapp3.1\Exercicio5_Resolucao.exe
+C:\curso_dp\Exercicio5_Resolucao\Exercicio5_Resolucao\bin\Debug\netcoreapp3.1\Exercicio5_Resolucao.deps.json
+C:\curso_dp\Exercicio5_Resolucao\Exercicio5_Resolucao\bin\Debug\netcoreapp3.1\Exercicio5_Resolucao.runtimeconfig.json
+C:\curso_dp\Exercicio5_Resolucao\Exercicio5_Resolucao\bin\Debug\netcoreapp3.1\Exercicio5_Resolucao.runtimeconfig.dev.json
+C:\curso_dp\Exercicio5_Resolucao\Exercicio5_Resolucao\bin\Debug\netcoreapp3.1\Exercicio5_Resolucao.dll
+C:\curso_dp\Exercicio5_Resolucao\Exercicio5_Resolucao\bin\Debug\netcoreapp3.1\Exercicio5_Resolucao.pdb
+C:\curso_dp\Exercicio5_Resolucao\Exercicio5_Resolucao\obj\Debug\netcoreapp3.1\Exercicio5_Resolucao.AssemblyInfoInputs.cache
+C:\curso_dp\Exercicio5_Resolucao\Exercicio5_Resolucao\obj\Debug\netcoreapp3.1\Exercicio5_Resolucao.AssemblyInfo.cs
+C:\curso_dp\Exercicio5_Resolucao\Exercicio5_Resolucao\obj\Debug\netcoreapp3.1\Exercicio5_Resolucao.csproj.CoreCompileInputs.cache
+C:\curso_dp\Exercicio5_Resolucao\Exercicio5_Resolucao\obj\Debug\netcoreapp3.1\Exercicio5_Resolucao.dll
+C:\curso_dp\Exercicio5_Resolucao\Exercicio5_Resolucao\obj\Debug\netcoreapp3.1\Exercicio5_Resolucao.pdb
+C:\curso_dp\Exercicio5_Resolucao\Exercicio5_Resolucao\obj\Debug\netcoreapp3.1\Exercicio5_Resolucao.genruntimeconfig.cache
+C:\curso_dp\Exercicio5_Resolucao\Exercicio5_Resolucao\obj\Debug\netcoreapp3.1\Exercicio5_Resolucao.csprojAssemblyReference.cache

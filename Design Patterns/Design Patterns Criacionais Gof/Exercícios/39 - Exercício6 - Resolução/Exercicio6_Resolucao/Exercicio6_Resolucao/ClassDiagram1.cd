@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Exercicio6_Resolucao.Lanche">
+    <Position X="9.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>Lanche.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Exercicio6_Resolucao.MistoQuente">
+    <Position X="7.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>MistoQuente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Exercicio6_Resolucao.CachorroQuente">
+    <Position X="9.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>CachorroQuente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Exercicio6_Resolucao.LancheNatural">
+    <Position X="11.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>LancheNatural.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Exercicio6_Resolucao.LancheCreator">
+    <Position X="2.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQAAAAAAAAAAAAAEAABAAAAAAIAAA=</HashCode>
+      <FileName>LancheCreator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Exercicio6_Resolucao.MistoQuenteCreator">
+    <Position X="0.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MistoQuenteCreator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Exercicio6_Resolucao.LancheNaturalCreator">
+    <Position X="2.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LancheNaturalCreator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Exercicio6_Resolucao.CachorroQuenteCreator">
+    <Position X="5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CachorroQuenteCreator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="10" />
+</ClassDiagram>

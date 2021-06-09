@@ -1,0 +1,13 @@
+C:\curso_dp\exercicio_demo\Exercicio_Singleton\Exercicio_Singleton\bin\Debug\netcoreapp3.1\Exercicio_Singleton.exe
+C:\curso_dp\exercicio_demo\Exercicio_Singleton\Exercicio_Singleton\bin\Debug\netcoreapp3.1\Exercicio_Singleton.deps.json
+C:\curso_dp\exercicio_demo\Exercicio_Singleton\Exercicio_Singleton\bin\Debug\netcoreapp3.1\Exercicio_Singleton.runtimeconfig.json
+C:\curso_dp\exercicio_demo\Exercicio_Singleton\Exercicio_Singleton\bin\Debug\netcoreapp3.1\Exercicio_Singleton.runtimeconfig.dev.json
+C:\curso_dp\exercicio_demo\Exercicio_Singleton\Exercicio_Singleton\bin\Debug\netcoreapp3.1\Exercicio_Singleton.dll
+C:\curso_dp\exercicio_demo\Exercicio_Singleton\Exercicio_Singleton\bin\Debug\netcoreapp3.1\Exercicio_Singleton.pdb
+C:\curso_dp\exercicio_demo\Exercicio_Singleton\Exercicio_Singleton\obj\Debug\netcoreapp3.1\Exercicio_Singleton.csprojAssemblyReference.cache
+C:\curso_dp\exercicio_demo\Exercicio_Singleton\Exercicio_Singleton\obj\Debug\netcoreapp3.1\Exercicio_Singleton.AssemblyInfoInputs.cache
+C:\curso_dp\exercicio_demo\Exercicio_Singleton\Exercicio_Singleton\obj\Debug\netcoreapp3.1\Exercicio_Singleton.AssemblyInfo.cs
+C:\curso_dp\exercicio_demo\Exercicio_Singleton\Exercicio_Singleton\obj\Debug\netcoreapp3.1\Exercicio_Singleton.csproj.CoreCompileInputs.cache
+C:\curso_dp\exercicio_demo\Exercicio_Singleton\Exercicio_Singleton\obj\Debug\netcoreapp3.1\Exercicio_Singleton.dll
+C:\curso_dp\exercicio_demo\Exercicio_Singleton\Exercicio_Singleton\obj\Debug\netcoreapp3.1\Exercicio_Singleton.pdb
+C:\curso_dp\exercicio_demo\Exercicio_Singleton\Exercicio_Singleton\obj\Debug\netcoreapp3.1\Exercicio_Singleton.genruntimeconfig.cache

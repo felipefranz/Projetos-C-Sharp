@@ -1,26 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\curso_dp\\criacionais\\singleton\\Singleton\\Singleton_SingleThread\\Singleton_SingleThread.csproj": {}
+    "C:\\Desenvolvimento_Sistemas\\Projetos C#\\Design Patterns\\Design Patterns Criacionais Gof\\Padrões de Projetos Criacionais\\22. Singleton\\Singleton\\Singleton_SingleThread\\Singleton_SingleThread.csproj": {}
   },
   "projects": {
-    "C:\\curso_dp\\criacionais\\singleton\\Singleton\\Singleton_SingleThread\\Singleton_SingleThread.csproj": {
+    "C:\\Desenvolvimento_Sistemas\\Projetos C#\\Design Patterns\\Design Patterns Criacionais Gof\\Padrões de Projetos Criacionais\\22. Singleton\\Singleton\\Singleton_SingleThread\\Singleton_SingleThread.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\curso_dp\\criacionais\\singleton\\Singleton\\Singleton_SingleThread\\Singleton_SingleThread.csproj",
+        "projectUniqueName": "C:\\Desenvolvimento_Sistemas\\Projetos C#\\Design Patterns\\Design Patterns Criacionais Gof\\Padrões de Projetos Criacionais\\22. Singleton\\Singleton\\Singleton_SingleThread\\Singleton_SingleThread.csproj",
         "projectName": "Singleton_SingleThread",
-        "projectPath": "C:\\curso_dp\\criacionais\\singleton\\Singleton\\Singleton_SingleThread\\Singleton_SingleThread.csproj",
-        "packagesPath": "C:\\Users\\Macoratti\\.nuget\\packages\\",
-        "outputPath": "C:\\curso_dp\\criacionais\\singleton\\Singleton\\Singleton_SingleThread\\obj\\",
+        "projectPath": "C:\\Desenvolvimento_Sistemas\\Projetos C#\\Design Patterns\\Design Patterns Criacionais Gof\\Padrões de Projetos Criacionais\\22. Singleton\\Singleton\\Singleton_SingleThread\\Singleton_SingleThread.csproj",
+        "packagesPath": "C:\\Users\\felip\\.nuget\\packages\\",
+        "outputPath": "C:\\Desenvolvimento_Sistemas\\Projetos C#\\Design Patterns\\Design Patterns Criacionais Gof\\Padrões de Projetos Criacionais\\22. Singleton\\Singleton\\Singleton_SingleThread\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Macoratti\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\felip\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -57,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.116\\RuntimeIdentifierGraph.json"
         }
       }
     }

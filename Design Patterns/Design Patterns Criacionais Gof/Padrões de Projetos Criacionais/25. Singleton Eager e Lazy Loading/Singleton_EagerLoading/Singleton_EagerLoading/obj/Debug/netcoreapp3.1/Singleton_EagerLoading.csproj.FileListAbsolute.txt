@@ -1,0 +1,13 @@
+C:\curso_dp\criacionais\singleton\Singleton_EagerLoading\Singleton_EagerLoading\bin\Debug\netcoreapp3.1\Singleton_EagerLoading.exe
+C:\curso_dp\criacionais\singleton\Singleton_EagerLoading\Singleton_EagerLoading\bin\Debug\netcoreapp3.1\Singleton_EagerLoading.deps.json
+C:\curso_dp\criacionais\singleton\Singleton_EagerLoading\Singleton_EagerLoading\bin\Debug\netcoreapp3.1\Singleton_EagerLoading.runtimeconfig.json
+C:\curso_dp\criacionais\singleton\Singleton_EagerLoading\Singleton_EagerLoading\bin\Debug\netcoreapp3.1\Singleton_EagerLoading.runtimeconfig.dev.json
+C:\curso_dp\criacionais\singleton\Singleton_EagerLoading\Singleton_EagerLoading\bin\Debug\netcoreapp3.1\Singleton_EagerLoading.dll
+C:\curso_dp\criacionais\singleton\Singleton_EagerLoading\Singleton_EagerLoading\bin\Debug\netcoreapp3.1\Singleton_EagerLoading.pdb
+C:\curso_dp\criacionais\singleton\Singleton_EagerLoading\Singleton_EagerLoading\obj\Debug\netcoreapp3.1\Singleton_EagerLoading.csprojAssemblyReference.cache
+C:\curso_dp\criacionais\singleton\Singleton_EagerLoading\Singleton_EagerLoading\obj\Debug\netcoreapp3.1\Singleton_EagerLoading.AssemblyInfoInputs.cache
+C:\curso_dp\criacionais\singleton\Singleton_EagerLoading\Singleton_EagerLoading\obj\Debug\netcoreapp3.1\Singleton_EagerLoading.AssemblyInfo.cs
+C:\curso_dp\criacionais\singleton\Singleton_EagerLoading\Singleton_EagerLoading\obj\Debug\netcoreapp3.1\Singleton_EagerLoading.csproj.CoreCompileInputs.cache
+C:\curso_dp\criacionais\singleton\Singleton_EagerLoading\Singleton_EagerLoading\obj\Debug\netcoreapp3.1\Singleton_EagerLoading.dll
+C:\curso_dp\criacionais\singleton\Singleton_EagerLoading\Singleton_EagerLoading\obj\Debug\netcoreapp3.1\Singleton_EagerLoading.pdb
+C:\curso_dp\criacionais\singleton\Singleton_EagerLoading\Singleton_EagerLoading\obj\Debug\netcoreapp3.1\Singleton_EagerLoading.genruntimeconfig.cache
