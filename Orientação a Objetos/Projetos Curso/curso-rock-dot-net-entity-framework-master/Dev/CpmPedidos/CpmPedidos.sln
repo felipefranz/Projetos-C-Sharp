@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29905.134
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CpmPedidos.Domain", "CpmPedidos.Domain\CpmPedidos.Domain.csproj", "{A66DAB64-54E7-4410-A66B-82A83A67381E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CpmPedidos.Domain", "CpmPedidos.Domain\CpmPedidos.Domain.csproj", "{A66DAB64-54E7-4410-A66B-82A83A67381E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CpmPedidos.Interface", "CpmPedidos.Interface\CpmPedidos.Interface.csproj", "{ACCF4CF8-97B2-4C60-B216-C85621769BA5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CpmPedidos.Repository", "CpmPedidos.Repository\CpmPedidos.Repository.csproj", "{9F308BD3-9269-43F3-81B3-403DA94B38D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CpmPedidos.API", "CpmPedidos.API\CpmPedidos.API.csproj", "{6ACF0C82-F1C4-43A3-BFFE-477F220630EC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,18 @@ Global
 		{A66DAB64-54E7-4410-A66B-82A83A67381E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A66DAB64-54E7-4410-A66B-82A83A67381E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A66DAB64-54E7-4410-A66B-82A83A67381E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACCF4CF8-97B2-4C60-B216-C85621769BA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACCF4CF8-97B2-4C60-B216-C85621769BA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACCF4CF8-97B2-4C60-B216-C85621769BA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACCF4CF8-97B2-4C60-B216-C85621769BA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F308BD3-9269-43F3-81B3-403DA94B38D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F308BD3-9269-43F3-81B3-403DA94B38D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F308BD3-9269-43F3-81B3-403DA94B38D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F308BD3-9269-43F3-81B3-403DA94B38D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6ACF0C82-F1C4-43A3-BFFE-477F220630EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ACF0C82-F1C4-43A3-BFFE-477F220630EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ACF0C82-F1C4-43A3-BFFE-477F220630EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ACF0C82-F1C4-43A3-BFFE-477F220630EC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
