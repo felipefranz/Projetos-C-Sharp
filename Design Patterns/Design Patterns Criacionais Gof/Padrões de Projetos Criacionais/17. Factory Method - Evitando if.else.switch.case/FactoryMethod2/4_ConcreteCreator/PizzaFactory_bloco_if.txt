@@ -1,0 +1,25 @@
+public class PizzaFactory : PizzaFactoryMethod
+ {
+        public override Pizza CriarPizza(int tipo)
+        {
+            if (tipo == 1)
+            {
+                return new PizzaCalabreza();
+            }
+            else if (tipo == 2)
+            {
+                return new PizzaMussarela();
+            }
+            else if (tipo == 3)
+            {
+                return new PizzaPortuguesa();
+            }
+            else if (tipo == 4)
+            {
+                return new PizzaQuatroQueijos();
+            }
+            else
+            {
+                throw new System.ArgumentException("Pizza não encontrada");
+            }
+  }
