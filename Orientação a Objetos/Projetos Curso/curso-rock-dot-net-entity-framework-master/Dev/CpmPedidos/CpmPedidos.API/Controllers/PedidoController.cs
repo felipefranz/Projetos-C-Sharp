@@ -1,9 +1,7 @@
-﻿using Microsoft.AspNetCore.Mvc;
-using Microsoft.Extensions.Logging;
+﻿using CpmPedido.Interface;
+using CpmPedidos.Domain;
+using Microsoft.AspNetCore.Mvc;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 
 namespace CpmPedidos.API.Controllers
 {
@@ -12,7 +10,28 @@ namespace CpmPedidos.API.Controllers
     public class PedidoController : AppBaseController
     {
         public PedidoController(IServiceProvider serviceProvider): base(serviceProvider)
-        {  
+        {
+        }
+
+        [HttpGet]
+        [Route("ticket-maximo")]
+        public decimal TicketMaximo()
+        {
+            return GetService<IPedidoRepository>().TicketMaximo();
+        }
+
+        [HttpGet]
+        [Route("por-cliente")]
+        public dynamic PedidosClientes()
+        {
+            return GetService<IPedidoRepository>().PedidosClientes();
+        }
+
+        [HttpPost]
+        [Route("")]
+        public string SalvarPedido(PedidoDTO pedido)
+        {
+            return GetService<IPedidoRepository>().SalvarPedido(pedido);
         }
     }
 }
