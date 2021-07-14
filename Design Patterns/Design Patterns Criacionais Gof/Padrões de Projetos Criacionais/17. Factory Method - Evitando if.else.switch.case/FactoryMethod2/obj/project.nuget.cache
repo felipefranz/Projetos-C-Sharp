@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TTDePvrFPNmXbEDF9mU9HXP4YUP1CiO9xAVIRBaCErQPuqNzbyTIR0ZF7Bnm/5LbrU6D5ojxfd7tdJ1/EauBxA==",
+  "dgSpecHash": "Y/tG8yOB8i9KWY6CvhCMR74RPTZlecYYWXoMmJCuBYIhxZhRjJarEHmC1FO31VuLvCcCEeWpD8js+RKmz3jGdw==",
   "success": true,
-  "projectFilePath": "D:\\_serie_design_patterns\\FactoryMethod2\\FactoryMethod2.csproj",
+  "projectFilePath": "C:\\Desenvolvimento_Sistemas\\Projetos C#\\Design Patterns\\Design Patterns Criacionais Gof\\Padrões de Projetos Criacionais\\17. Factory Method - Evitando if.else.switch.case\\FactoryMethod2\\FactoryMethod2.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
