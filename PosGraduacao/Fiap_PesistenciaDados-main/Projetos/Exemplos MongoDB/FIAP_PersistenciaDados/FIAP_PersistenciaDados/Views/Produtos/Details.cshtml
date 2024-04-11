@@ -1,0 +1,25 @@
+﻿@using FIAP_PersistenciaDados.Models
+@model DetalhesViewModel
+
+<h1>Detalhes do Produto</h1>
+
+<p>Nome: @Model.Produto.Nome</p>
+<p>Preço: @Model.Produto.Preco</p>
+<!-- Outras propriedades do produto -->
+
+<h2>Logs de Alteração de Preço</h2>
+<ul>
+    @foreach (var log in Model.LogsAlteracaoPreco)
+    {
+        <li>
+            Preço Antigo: @log.PrecoAntigo
+            Novo Preço: @log.NovoPreco
+            Data de Alteração: @log.DataAlteracao
+        </li>
+    }
+</ul>
+
+<p>
+    <a asp-action="Edit" asp-route-id="@Model.Produto.Id">Editar</a> |
+    <a asp-action="Index">Voltar para a Lista</a>
+</p>
